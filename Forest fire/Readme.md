@@ -1,1 +1,1 @@
-
+Hi, I'm Hoon. I'm trying to find a good method for detecting forest fire areas using classification methods. It's quite challenging because there are many outliers, but outliers don't necessarily mean that forest fires will occur. I'm working on improving classification accuracy by incorporating location information.
